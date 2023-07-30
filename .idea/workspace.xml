@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a196800-5f63-4340-a6e5-7d93cc98d109" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/1_11653.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_2231.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_자동차 대여 기록 별 대여 금액 구하기.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_10815.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +42,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.github.copilot.settings.ApplicationConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="aigo" />
@@ -74,6 +81,11 @@
       <updated>1688986569740</updated>
       <workItem from="1688986570896" duration="152000" />
       <workItem from="1688986736383" duration="3672000" />
+      <workItem from="1689079422135" duration="3444000" />
+      <workItem from="1689168581033" duration="49000" />
+      <workItem from="1689235915074" duration="3075000" />
+      <workItem from="1689391438163" duration="1266000" />
+      <workItem from="1690709474865" duration="3030000" />
     </task>
     <servers />
   </component>
