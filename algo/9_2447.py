@@ -4,7 +4,7 @@
 # 유형: 분할 정복
 # 날짜: 2023-08-01
 # 난이도: 5
-# 메모:
+# 메모: 개어렵다
 # """
 import sys
 
@@ -38,9 +38,6 @@ while n > 1:
                     print('x+n', x+n)
                     mapp[y+i][x: x+n] = " " * n
 
-#
-        n = 1 일때 x 1 4 7
-        n = 3 일때 x 3 12 7
         for _i in mapp:
             for _j in _i:
                 # print(mapp[i][j])
