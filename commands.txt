@@ -1,5 +1,6 @@
 python3 -m venv venv
 source venv/bin/activate
+which pip3
 pip3 install --upgrade pip
 pip3 install apache-airflow
 pip3 show apache-airflow  :  show what packages are required for the specified package
@@ -11,4 +12,6 @@ pip3 list
 pip3 uninstall -r requirements.txt -y : 전체 pip3 list삭제
 
 ChatGPT API : Santoryu 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
+PINECONE_API_KEY="dc56b06e-8fee-4750-b991-c8ae1ebd17e5"
+PINECONE_ENV="us-west1-gcp-free"
 https://github.com/openai/openai-cookbook/
