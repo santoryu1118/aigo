@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a196800-5f63-4340-a6e5-7d93cc98d109" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/langchain/main.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langchain/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo/10_2606.py" beforeDir="false" afterPath="$PROJECT_DIR$/algo/10_2606.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo/11_1963.py" beforeDir="false" afterPath="$PROJECT_DIR$/algo/12_1963.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/13_1753.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/14_2206.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algo/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/algo/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo/prime_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/algo/11_prime_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commands.txt" beforeDir="false" afterPath="$PROJECT_DIR$/commands.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,27 +29,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/jaeyeolee/PycharmProjects/santoryu/aigo/langchain&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/jaeyeolee/PycharmProjects/santoryu/aigo/algo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/langchain" />
       <recent name="$PROJECT_DIR$/algo" />
+      <recent name="$PROJECT_DIR$/langchain_examples" />
+      <recent name="$PROJECT_DIR$/langchain" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -111,7 +106,7 @@
       <workItem from="1691062940091" duration="10724000" />
       <workItem from="1691127217526" duration="42000" />
       <workItem from="1691127267836" duration="886000" />
-      <workItem from="1691154840817" duration="3389000" />
+      <workItem from="1691154840817" duration="14756000" />
     </task>
     <servers />
   </component>
