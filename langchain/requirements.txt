@@ -6,3 +6,4 @@ tiktoken
 wikipedia
 pypdf
 docx2txt
+dotenv

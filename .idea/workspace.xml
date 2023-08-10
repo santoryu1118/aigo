@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a196800-5f63-4340-a6e5-7d93cc98d109" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/algo/13_1753.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo/14_2206.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo/main.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/langchain/pinecone.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo/14_2206.py" beforeDir="false" afterPath="$PROJECT_DIR$/algo/14_2206.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algo/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/algo/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/langchain/.env" beforeDir="false" afterPath="$PROJECT_DIR$/langchain/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/langchain/.ipynb_checkpoints/main-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/langchain/.ipynb_checkpoints/main-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/langchain/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/langchain/main.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/langchain/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/langchain/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/jaeyeolee/PycharmProjects/santoryu/aigo/algo",
+    "last_opened_file_path": "/Users/jaeyeolee/PycharmProjects/santoryu/aigo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -42,15 +48,15 @@
     "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/algo" />
-      <recent name="$PROJECT_DIR$/langchain_examples" />
       <recent name="$PROJECT_DIR$/langchain" />
+      <recent name="$PROJECT_DIR$/langchain_examples" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -107,6 +113,14 @@
       <workItem from="1691127217526" duration="42000" />
       <workItem from="1691127267836" duration="886000" />
       <workItem from="1691154840817" duration="14756000" />
+      <workItem from="1691307664812" duration="6454000" />
+      <workItem from="1691315373785" duration="22000" />
+      <workItem from="1691315405114" duration="65000" />
+      <workItem from="1691315477611" duration="228000" />
+      <workItem from="1691315717755" duration="1979000" />
+      <workItem from="1691317724660" duration="4531000" />
+      <workItem from="1691369976821" duration="609000" />
+      <workItem from="1691382806575" duration="8071000" />
     </task>
     <servers />
   </component>
